@@ -1,0 +1,3 @@
+PRODUCT_TYPE,SKU,PRODUCT_ID,PARENT_ID,COLLECTION_ID,PRODUCT_NAME,VARIANT_FILLING,THUMBNAILS,DESCRIPTION
+REGULAR,space-test,space-test,,,space-test,,https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-catalog/default/dw173d601e/images/easter/milk-chocolate-bunny-738-candy-alt1.jpg?sw=1036&sh=1036,No Space
+REGULAR,space-test ,space-test ,,,space-test ,,https://www.sees.com/dw/image/v2/AATS_PRD/on/demandware.static/-/Sites-sees-catalog/default/dw173d601e/images/easter/milk-chocolate-bunny-738-candy-alt1.jpg?sw=1036&sh=1036,With Space
