@@ -1,0 +1,11 @@
+﻿PRODUCT_ID, ORIGINAL_PRICE , SELLING_PRICE , COGS , MSRP 
+prod-chocolate-kit,150,150,85,160
+prod-assorted-candy-bars,15,15,8.75,15
+prod-milk-chocolate-bunny,6.5,6.5,4,7
+prod-milk-peppermints,9.95,9.95,5.5,10
+prod-chocolate-walnut-fudge,24.99,24.99,15.89,24.99
+prod-milk-chocolate-drops,6.5,6.5,3,6.5
+prod-dark-buttercream,35.5,35.5,18,40
+prod-dark-almond-nougat,19.75,19.75,12.45,20
+prod-dark-marzipan,25,25,16.54,25
+prod-dark-blueberry-truffle,27.5,27.5,15.75,29

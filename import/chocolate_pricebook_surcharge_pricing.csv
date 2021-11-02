@@ -1,0 +1,12 @@
+﻿PRODUCT_ID, ORIGINAL_PRICE , SELLING_PRICE , COGS , MSRP ,SURCHARGE_TYPE, SURCHARGE_VALUE 
+prod-chocolate-kit,120,120,75,120,,
+prod-assorted-candy-bars,10,10,7,10,,
+prod-milk-chocolate-bunny,9,9,5,9,,
+prod-milk-peppermints,12,12,10,12,,
+prod-chocolate-walnut-fudge,27,27,20,27,,
+prod-milk-chocolate-drops,5,5,2,5,,
+prod-dark-chocolate-parent,19,19,17,19,,
+prod-dark-buttercream,,,,,ABSOLUTE,20
+prod-dark-almond-nougat,,,,,PERCENTAGE,0.35
+prod-dark-marzipan,,,,,ABSOLUTE,15
+prod-dark-blueberry-truffle,,,,,PERCENTAGE,0.15
